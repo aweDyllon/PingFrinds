@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "677472092270",
+    "firebase_url": "https://pingfrinds.firebaseio.com",
+    "project_id": "pingfrinds",
+    "storage_bucket": "pingfrinds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677472092270:android:330a68fb4e3ee9c5",
+        "android_client_info": {
+          "package_name": "s.ffs.pingfrinds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677472092270-5lfqqqf2qms7q81o3m7imb2pe635i37f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "s.ffs.pingfrinds",
+            "certificate_hash": "32566c4beaf3b5bfc31c81424d925a42f04f34a5"
+          }
+        },
+        {
+          "client_id": "677472092270-r2pqvd3oddh40fcp9fj0rdjcd3gbssh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQwr5yefnEIyWwGto7zoYCKxfojvXt-hc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677472092270-r2pqvd3oddh40fcp9fj0rdjcd3gbssh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
